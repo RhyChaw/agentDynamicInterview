@@ -1,5 +1,9 @@
 # Maple Carpet & Flooring — Outbound Voice Agent
 
+## DEMO
+
+https://www.loom.com/share/2f3e9692a61f4598b763b83badbd40e6
+
 Local Next.js prototype for Maya, the AI outbound sale agent. Styled like [AgentDynamics](https://www.agentdynamics.ai/) with a text call simulator powered by Claude and `System_prompt.md`.
 
 ## Quick start
